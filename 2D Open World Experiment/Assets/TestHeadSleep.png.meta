@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 5ea8e164718aca047be842cc438a63f9
+timeCreated: 1513697072
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TestHeadSleep_0
+    21300002: TestHeadSleep_1
+    21300004: TestHeadSleep_2
+    21300006: TestHeadSleep_3
+    21300008: TestHeadSleep_4
+    21300010: TestHeadSleep_5
+    21300012: TestHeadSleep_6
+    21300014: TestHeadSleep_7
+    21300016: TestHeadSleep_8
+    21300018: TestHeadSleep_9
+    21300020: TestHeadSleep_10
+    21300022: TestHeadSleep_11
+    21300024: TestHeadSleep_12
+    21300026: TestHeadSleep_13
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TestHeadSleep_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 128
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5165222, y: 0.14047882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TestHeadSleep_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 413
+        width: 128
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5330442, y: 0.104804456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TestHeadSleep_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 128
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5495665, y: 0.07042503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TestHeadSleep_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 128
+        height: 96
+      alignment: 9
+      pivot: {x: 0.53304434, y: 0.08143965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TestHeadSleep_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 128
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5330443, y: 0.048395794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TestHeadSleep_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 286
+        width: 128
+        height: 98
+      alignment: 9
+      pivot: {x: 0.52478313, y: 0.089981705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TestHeadSleep_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 287
+        width: 128
+        height: 98
+      alignment: 9
+      pivot: {x: 0.51652217, y: 0.08998201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TestHeadSleep_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 285
+        width: 128
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5082612, y: 0.11933044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TestHeadSleep_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 128
+        height: 97
+      alignment: 9
+      pivot: {x: 0.54130536, y: 0.10755732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TestHeadSleep_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 156
+        width: 128
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09818237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TestHeadSleep_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 151
+        width: 128
+        height: 105
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.1273872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TestHeadSleep_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 152
+        width: 128
+        height: 104
+      alignment: 9
+      pivot: {x: 0.52478313, y: 0.11363675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TestHeadSleep_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 128
+        height: 102
+      alignment: 9
+      pivot: {x: 0.52478325, y: 0.12679486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TestHeadSleep_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 29
+        width: 128
+        height: 98
+      alignment: 9
+      pivot: {x: 0.54956627, y: 0.089981854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

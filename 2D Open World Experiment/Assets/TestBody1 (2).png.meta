@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: f526fc4bbe2d4e842b05908bfb278a99
+timeCreated: 1513696652
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TestBody1 (2)_0
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TestBody1 (2)_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 19
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.854584, y: 37.135567}
+        - {x: 1.4812698, y: 38}
+        - {x: -17.685463, y: 36.41388}
+        - {x: -20.347256, y: 27.108482}
+        - {x: -21.766338, y: 23.660637}
+        - {x: -21.878216, y: 22.455788}
+        - {x: -26.016659, y: 17.047363}
+        - {x: -33.832024, y: 7.0790176}
+        - {x: -18.605507, y: -14.784245}
+        - {x: -13.614998, y: -19.015476}
+        - {x: -0.31435013, y: -27.473413}
+        - {x: 15.192818, y: -19.088345}
+        - {x: 15.671867, y: -17.615505}
+        - {x: 19.04831, y: -16.230274}
+        - {x: 20.233078, y: -14.149555}
+        - {x: 29.845726, y: 6.7410126}
+        - {x: 26.84047, y: 18.071884}
+        - {x: 25.402496, y: 20.353561}
+        - {x: 23.25766, y: 21.75167}
+        - {x: 23.346474, y: 22.878815}
+        - {x: 22.000694, y: 25.74157}
+        - {x: 20.854103, y: 29.084267}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

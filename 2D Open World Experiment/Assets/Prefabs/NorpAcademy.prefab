@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1081674059844742}
+  m_IsPrefabAsset: 1
+--- !u!1 &1081674059844742
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4639281475137200}
+  - component: {fileID: 114012279054436204}
+  m_Layer: 0
+  m_Name: NorpAcademy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4639281475137200
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1081674059844742}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114012279054436204
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1081674059844742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89ec15de594f25b409d2cf85214c989a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  broadcastHub:
+    broadcastingBrains:
+    - {fileID: 11400000, guid: 6ef49dc2ff11c1a4eb31bf8a4dc25e4c, type: 2}
+    _brainsToControl:
+    - {fileID: 11400000, guid: e32b4b3cef0eacf46b92b84f2adf8456, type: 2}
+    - {fileID: 11400000, guid: c60bed0458c86ef49b51208529beeeae, type: 2}
+    - {fileID: 11400000, guid: 6ef49dc2ff11c1a4eb31bf8a4dc25e4c, type: 2}
+  maxSteps: 2000
+  trainingConfiguration:
+    width: 240
+    height: 240
+    qualityLevel: 2
+    timeScale: 25
+    targetFrameRate: -1
+  inferenceConfiguration:
+    width: 1280
+    height: 720
+    qualityLevel: 5
+    timeScale: 1
+    targetFrameRate: 60
+  resetParameters:
+    resetParameters:
+    - key: level
+      value: 1
+  alreadyReset: 0
+  norpisZero: 0
+  startMarkers: []
+  totalScore: 0
+  points: []
+  fruitSpreader: {fileID: 0}
+  firstwin: 0
+  braintoGive:
+  - {fileID: 11400000, guid: 6ef49dc2ff11c1a4eb31bf8a4dc25e4c, type: 2}
+  - {fileID: 11400000, guid: 6ef49dc2ff11c1a4eb31bf8a4dc25e4c, type: 2}
+  oneAtaTime: 0
+  normal: 1
+  iwscheck: 0
+  agentPrefab: {fileID: 1997938987033424, guid: a156f67cce0d345469dd9f467b079520,
+    type: 2}
+  agents: []
+  currentAgents: []
+  agentsDestroyed: 0
+  level1: {fileID: 0}
+  leveltwo: {fileID: 0}
+  level3: {fileID: 0}
+  level4: {fileID: 0}
+  testFoodCopies:
+  - {fileID: 1388095180266082, guid: 2273a63f8db98c5469008ef2e23e8e06, type: 2}
+  - {fileID: 1388095180266082, guid: 2273a63f8db98c5469008ef2e23e8e06, type: 2}
+  - {fileID: 1388095180266082, guid: 2273a63f8db98c5469008ef2e23e8e06, type: 2}
+  - {fileID: 1388095180266082, guid: 2273a63f8db98c5469008ef2e23e8e06, type: 2}
+  fruitswithmarkers: []
+  tempFood: []
+  tempFood2: []
+  fruitstarts: []
+  whichCheck: 0
+  arenas: []
+  fruits: []
+  range: 0
+  epnum: 0
+  firstlvl: 0
+  norpAI: {fileID: 0}
+  TargetTRAINING: 1
+  markers1: []
+  markers2: []
+  markers3: []
+  markers4: []
+  cm: 0
+  agentCount: 0
+  simpleArena: {fileID: 0}
+  simpleArenaZero: {fileID: 0}
+  prvlvl: 0
+  level8: {fileID: 0}
+  level9: {fileID: 0}
+  copies: []
+  foodies: []

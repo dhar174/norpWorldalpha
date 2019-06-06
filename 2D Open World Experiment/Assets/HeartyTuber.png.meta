@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 8ede11088e0917c4ea74f47edd02f159
+timeCreated: 1514041111
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HeartyTuber_0
+    21300002: HeartyTuber_1
+    21300004: HeartyTuber_2
+    21300006: HeartyTuber_3
+    21300008: HeartyTuber_4
+    21300010: HeartyTuber_5
+    21300012: HeartyTuber_6
+    21300014: HeartyTuber_7
+    21300016: HeartyTuber_8
+    21300018: HeartyTuber_9
+    21300020: HeartyTuber_10
+    21300022: HeartyTuber_11
+    21300024: HeartyTuber_12
+    21300026: HeartyTuber_13
+    21300028: HeartyTuber_14
+    21300030: HeartyTuber_15
+    21300032: HeartyTuber_16
+    21300034: HeartyTuber_17
+    21300036: HeartyTuber_18
+    21300038: HeartyTuber_19
+    21300040: HeartyTuber_20
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeartyTuber_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 360
+        width: 40
+        height: 17
+      alignment: 9
+      pivot: {x: 0.9744285, y: 0.47342098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 8.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -5.5}
+        - {x: -15, y: -8.5}
+        - {x: 15, y: -8.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 264
+        width: 86
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.160194, y: 45.79596}
+        - {x: 14, y: 55.5}
+        - {x: 13, y: 52.5}
+        - {x: 11, y: 45.5}
+        - {x: 15, y: 40.5}
+        - {x: 8, y: 36.5}
+        - {x: 11, y: 47.5}
+        - {x: 11, y: 53.5}
+        - {x: 9, y: 55.5}
+        - {x: -3, y: 55.5}
+        - {x: -9, y: 51.5}
+        - {x: -11.672302, y: 55.5}
+        - {x: -8.248646, y: 42.230225}
+        - {x: -43, y: 35.49942}
+        - {x: -43, y: -39.5}
+        - {x: -20, y: -55.5}
+        - {x: 8, y: -55.5}
+        - {x: 43, y: -24.5}
+        - {x: 43, y: 37.525177}
+        - {x: 19.056732, y: 37.326202}
+      - - {x: -9.537117, y: 39.633972}
+        - {x: -43, y: 38.5}
+        - {x: -17, y: 38.5}
+        - {x: -13, y: 41.5}
+        - {x: -13, y: 52.5}
+        - {x: -14, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 359
+        width: 40
+        height: 17
+      alignment: 9
+      pivot: {x: 0.9405405, y: 0.55315626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 8.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -5.5}
+        - {x: -15, y: -8.5}
+        - {x: 15, y: -8.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 360
+        width: 40
+        height: 17
+      alignment: 9
+      pivot: {x: 0.9179489, y: 0.47342098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 8.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -5.5}
+        - {x: -15, y: -8.5}
+        - {x: 15, y: -8.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 293
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 41}
+        - {x: 13, y: 38}
+        - {x: 11, y: 31}
+        - {x: 11, y: 39}
+        - {x: 9, y: 41}
+        - {x: -3, y: 41}
+        - {x: -9, y: 37}
+        - {x: -8, y: 30}
+        - {x: -6, y: 28}
+        - {x: -34, y: 23}
+        - {x: -43, y: 14}
+        - {x: -43, y: -32}
+        - {x: -40, y: -41}
+        - {x: 40, y: -41}
+        - {x: 43, y: -37}
+        - {x: 43, y: 22.496613}
+        - {x: 16.90184, y: 23.706055}
+      - - {x: -12.42186, y: 27.730225}
+        - {x: -43, y: 24}
+        - {x: -17, y: 24}
+        - {x: -13, y: 27}
+        - {x: -13, y: 38}
+        - {x: -14, y: 41}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 359
+        width: 40
+        height: 17
+      alignment: 9
+      pivot: {x: 0.929245, y: 0.55315626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 8.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -5.5}
+        - {x: -15, y: -8.5}
+        - {x: 15, y: -8.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 360
+        width: 40
+        height: 17
+      alignment: 9
+      pivot: {x: 0.9405411, y: 0.47342098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 8.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -5.5}
+        - {x: -15, y: -8.5}
+        - {x: 15, y: -8.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 307
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 34}
+        - {x: 12, y: 28}
+        - {x: 12, y: 25}
+        - {x: 11, y: 32}
+        - {x: 10, y: 34}
+        - {x: -7, y: 34}
+        - {x: -13.845154, y: 22.912354}
+        - {x: -43, y: 7}
+        - {x: -43, y: -34}
+        - {x: 42, y: -34}
+        - {x: 43, y: -33}
+        - {x: 41.864746, y: 14.173859}
+        - {x: 14.700775, y: 17.3349}
+      - - {x: -15, y: 34}
+        - {x: -8.412079, y: 19.221527}
+        - {x: -43, y: 18}
+        - {x: -42, y: 17}
+        - {x: -26, y: 17}
+        - {x: -16, y: 20}
+        - {x: -13, y: 23}
+        - {x: -13, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 359
+        width: 40
+        height: 17
+      alignment: 9
+      pivot: {x: 0.9405403, y: 0.52657723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 8.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -5.5}
+        - {x: -15, y: -8.5}
+        - {x: 15, y: -8.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 232
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 8.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -5.5}
+        - {x: -15, y: -8.5}
+        - {x: 15, y: -8.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 190
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.42575, y: 10.045181}
+        - {x: 14.885971, y: 16.187088}
+        - {x: 13.460991, y: 22.870209}
+        - {x: 18, y: 28.5}
+        - {x: 12, y: 25.5}
+        - {x: 11, y: 18.5}
+        - {x: 15, y: 13.5}
+        - {x: 8, y: 9.5}
+        - {x: 11, y: 20.5}
+        - {x: 11, y: 26.5}
+        - {x: 9, y: 28.5}
+        - {x: -6, y: 28.5}
+        - {x: -14, y: 26.5}
+        - {x: -12.913944, y: 14.661041}
+        - {x: -43, y: 8.5}
+        - {x: -43, y: -28.5}
+        - {x: 43, y: -28.5}
+        - {x: 41.741577, y: 4.3802643}
+      - - {x: -17, y: 28.5}
+        - {x: -9.022629, y: 10.882095}
+        - {x: -43, y: 11.5}
+        - {x: -22, y: 11.5}
+        - {x: -16, y: 14.5}
+        - {x: -13, y: 19.5}
+        - {x: -13, y: 25.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 231
+        width: 40
+        height: 17
+      alignment: 9
+      pivot: {x: 0.87628096, y: 0.54659766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 8.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -5.5}
+        - {x: -15, y: -8.5}
+        - {x: 15, y: -8.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 232
+        width: 40
+        height: 17
+      alignment: 9
+      pivot: {x: 0.8960854, y: 0.54659766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 8.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -5.5}
+        - {x: -15, y: -8.5}
+        - {x: 15, y: -8.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 207
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.500626, y: 13.429657}
+        - {x: 18, y: 20}
+        - {x: 12, y: 17}
+        - {x: 12, y: 19}
+        - {x: 10, y: 20}
+        - {x: -15, y: 20}
+        - {x: -14.395126, y: 4.2538757}
+        - {x: -41, y: 5}
+        - {x: -41, y: -20}
+        - {x: 41, y: -20}
+        - {x: 37.726364, y: -0.21359253}
+        - {x: 14.57016, y: 4.074341}
+      - - {x: -15, y: 20}
+        - {x: -10.504044, y: 3.735489}
+        - {x: -41, y: 3}
+        - {x: -22, y: 3}
+        - {x: -13, y: 9}
+        - {x: -13, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_14
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 231
+        width: 40
+        height: 17
+      alignment: 9
+      pivot: {x: 0.9455959, y: 0.4999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 8.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -5.5}
+        - {x: -15, y: -8.5}
+        - {x: 15, y: -8.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 232
+        width: 40
+        height: 17
+      alignment: 9
+      pivot: {x: 0.89971924, y: 0.5213758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 8.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -5.5}
+        - {x: -15, y: -8.5}
+        - {x: 15, y: -8.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 217
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.517059, y: 8.88385}
+        - {x: 18, y: 15}
+        - {x: 12, y: 12}
+        - {x: 11, y: 5}
+        - {x: 15, y: 0}
+        - {x: 8, y: -4}
+        - {x: 11, y: 7}
+        - {x: 11, y: 13}
+        - {x: 10, y: 15}
+        - {x: -5, y: 15}
+        - {x: -10, y: 11}
+        - {x: -15.5503845, y: 2.1913147}
+        - {x: -31.416107, y: -1.3623962}
+        - {x: -37, y: -7}
+        - {x: -37, y: -15}
+        - {x: 37, y: -15}
+        - {x: 33.973846, y: -4.382782}
+        - {x: 18.899536, y: -1.9326935}
+      - - {x: -17, y: 15}
+        - {x: -9.238464, y: 1.6333313}
+        - {x: -37, y: -2}
+        - {x: -22, y: -2}
+        - {x: -13, y: 4}
+        - {x: -13, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_17
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 231
+        width: 40
+        height: 17
+      alignment: 9
+      pivot: {x: 0.93605727, y: 0.47862512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 8.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -5.5}
+        - {x: -15, y: -8.5}
+        - {x: 15, y: -8.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 104
+        width: 40
+        height: 17
+      alignment: 9
+      pivot: {x: 0.9360572, y: 0.5213758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 8.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -5.5}
+        - {x: -15, y: -8.5}
+        - {x: 15, y: -8.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 101
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 9}
+        - {x: -7.5, y: -7}
+        - {x: -6.5, y: -9}
+        - {x: 6.5, y: -9}
+        - {x: 7.5, y: -6}
+        - {x: 7.5, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeartyTuber_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 103
+        width: 40
+        height: 17
+      alignment: 9
+      pivot: {x: 0.96331084, y: 0.45724982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 8.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -5.5}
+        - {x: -15, y: -8.5}
+        - {x: 15, y: -8.5}
+        - {x: 20, y: -5.5}
+        - {x: 20, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
